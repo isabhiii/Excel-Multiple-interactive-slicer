@@ -9,4 +9,5 @@
 5) Generated a slicer of Country and Products
 6) Can select multiple countries and chocolate products at once and see the changes in Data Table and Bar chart
 
-![Slicer](https://github.com/isabhiii/Excel-Multiple-interactive-slicer/blob/main/Slicer.png):
+Slicer:
+![Slicer](https://github.com/isabhiii/Excel-Multiple-interactive-slicer/blob/main/Slicer.png)
